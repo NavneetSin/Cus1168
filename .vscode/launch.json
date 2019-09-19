@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - testfunction",
+            "request": "launch",
+            "mainClass": "testfunction"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Functional_program",
+            "request": "launch",
+            "mainClass": "Functional_program"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - procedural_program",
+            "request": "launch",
+            "mainClass": "procedural_program"
+        }
+    ]
+}
